@@ -1,4 +1,4 @@
-catppuccin = {
+local catppuccin = {
     "catppuccin/nvim",
     lazy = false,
     name = "catppuccin",
@@ -8,7 +8,7 @@ catppuccin = {
     end
 }
 
-tokyonight = {
+local tokyonight = {
     "folke/tokyonight.nvim",
     lazy = false,
     priority = 1000,
