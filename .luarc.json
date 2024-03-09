@@ -1,6 +1,7 @@
 {
     "diagnostics.globals": [
-        "vim"
+        "vim",
+        "on_attach"
     ],
     "diagnostics.disable": [
         "unused-local"
